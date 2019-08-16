@@ -1,5 +1,5 @@
 
-[English Docs](../README.md)  |  [中文文档](doc/README-zh.md)
+[English Docs](../README.md)  |  [中文文档](README-zh.md)  |  [Türkçe Dökümanlar](README-tr.md)
 
 
 # HarmonyOS
@@ -76,7 +76,7 @@
 - [镜像]
 
 ## 3. 架构参考
-- [LiteOS](Huawei_LiteOS/README.md)
+- [LiteOS](../Huawei_LiteOS/README.md)
 - [ABI] Application Binary Interface
 - [EABI] Embedded Application Binary Interface
 
